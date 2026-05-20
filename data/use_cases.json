@@ -341,6 +341,66 @@
       },
       "source_quality": "low",
       "file": "use-cases/ecommerce/ai-003-margin-guardian.md"
+    },
+    {
+      "id": "AI-001",
+      "name": "Subscription Negotiator",
+      "category": "personal-command-center",
+      "family": "logistics & shopping",
+      "status": "ai_idea",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E0",
+      "scores": {
+        "value": 4,
+        "difficulty": 2,
+        "risk": 2,
+        "evidence": 2,
+        "mvp_fit": 5,
+        "openclaw_fit": 3,
+        "time_to_value": 2
+      },
+      "source_quality": "low",
+      "file": "use-cases/personal-command-center/ai-001-subscription-negotiator.md"
+    },
+    {
+      "id": "AI-010",
+      "name": "Mini-CFO",
+      "category": "business-automation",
+      "family": "financial operations",
+      "status": "ai_idea",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E0",
+      "scores": {
+        "value": 5,
+        "difficulty": 4,
+        "risk": 4,
+        "evidence": 2,
+        "mvp_fit": 3,
+        "openclaw_fit": 4,
+        "time_to_value": 8
+      },
+      "source_quality": "low",
+      "file": "use-cases/business-automation/ai-010-mini-cfo.md"
+    },
+    {
+      "id": "AI-002",
+      "name": "Home SRE",
+      "category": "devops-homelab",
+      "family": "infrastructure monitoring",
+      "status": "ai_idea",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E0",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 2,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "low",
+      "file": "use-cases/devops-homelab/ai-002-home-sre.md"
     }
   ]
 }

@@ -16,3 +16,6 @@ OC-035,Learning Assistant,education,education,confirmed,L0,E4,4,2,1,4,5,4,1,high
 OC-056,API Key Hardening,security-governance,hardening,confirmed,L0,E4,5,2,2,4,5,5,2,high,use-cases/security-governance/oc-056-api-key-hardening.md
 OC-051,Agent Monitoring & Observability,security-governance,agent monitoring,confirmed,L0,E4,4,3,2,3,4,4,4,medium-high,use-cases/security-governance/oc-051-agent-monitoring.md
 AI-003,E-Commerce Margin Guardian,ecommerce,store operations,ai_idea,L0-L2,E0,4,3,3,2,3,3,6,low,use-cases/ecommerce/ai-003-margin-guardian.md
+AI-001,Subscription Negotiator,personal-command-center,logistics & shopping,ai_idea,L0-L2,E0,4,2,2,2,5,3,2,low,use-cases/personal-command-center/ai-001-subscription-negotiator.md
+AI-010,Mini-CFO,business-automation,financial operations,ai_idea,L0-L2,E0,5,4,4,2,3,4,8,low,use-cases/business-automation/ai-010-mini-cfo.md
+AI-002,Home SRE,devops-homelab,infrastructure monitoring,ai_idea,L0-L2,E0,5,3,3,2,4,5,4,low,use-cases/devops-homelab/ai-002-home-sre.md
