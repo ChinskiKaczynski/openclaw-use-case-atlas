@@ -401,6 +401,46 @@
       },
       "source_quality": "low",
       "file": "use-cases/devops-homelab/ai-002-home-sre.md"
+    },
+    {
+      "id": "AD-001",
+      "name": "Multi-Agent PR Review",
+      "category": "coding-agents",
+      "family": "PR review",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 5,
+        "difficulty": 4,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 3,
+        "openclaw_fit": 5,
+        "time_to_value": 8
+      },
+      "source_quality": "medium",
+      "file": "use-cases/coding-agents/ad-001-multi-agent-pr-review.md"
+    },
+    {
+      "id": "AD-002",
+      "name": "CI Auto-Fix Agent",
+      "category": "coding-agents",
+      "family": "bug fixing",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 5,
+        "difficulty": 4,
+        "risk": 3,
+        "evidence": 3,
+        "mvp_fit": 3,
+        "openclaw_fit": 5,
+        "time_to_value": 8
+      },
+      "source_quality": "medium",
+      "file": "use-cases/coding-agents/ad-002-ci-auto-fix.md"
     }
   ]
 }
