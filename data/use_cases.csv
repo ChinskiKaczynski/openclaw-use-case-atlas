@@ -19,3 +19,5 @@ AI-003,E-Commerce Margin Guardian,ecommerce,store operations,ai_idea,L0-L2,E0,4,
 AI-001,Subscription Negotiator,personal-command-center,logistics & shopping,ai_idea,L0-L2,E0,4,2,2,2,5,3,2,low,use-cases/personal-command-center/ai-001-subscription-negotiator.md
 AI-010,Mini-CFO,business-automation,financial operations,ai_idea,L0-L2,E0,5,4,4,2,3,4,8,low,use-cases/business-automation/ai-010-mini-cfo.md
 AI-002,Home SRE,devops-homelab,infrastructure monitoring,ai_idea,L0-L2,E0,5,3,3,2,4,5,4,low,use-cases/devops-homelab/ai-002-home-sre.md
+AD-001,Multi-Agent PR Review,coding-agents,PR review,adapted,L0-L2,E3,5,4,2,3,3,5,8,medium,use-cases/coding-agents/ad-001-multi-agent-pr-review.md
+AD-002,CI Auto-Fix Agent,coding-agents,bug fixing,adapted,L0-L2,E3,5,4,3,3,3,5,8,medium,use-cases/coding-agents/ad-002-ci-auto-fix.md
