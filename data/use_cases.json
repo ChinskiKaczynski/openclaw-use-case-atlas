@@ -441,6 +441,66 @@
       },
       "source_quality": "medium",
       "file": "use-cases/coding-agents/ad-002-ci-auto-fix.md"
+    },
+    {
+      "id": "AD-025",
+      "name": "Tool-Level HITL",
+      "category": "security-governance",
+      "family": "approvals",
+      "status": "adapted",
+      "safety_level": "L0",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "medium",
+      "file": "use-cases/security-governance/ad-025-tool-level-hitl.md"
+    },
+    {
+      "id": "AI-004",
+      "name": "Returns & Complaints Agent",
+      "category": "ecommerce",
+      "family": "store operations",
+      "status": "ai_idea",
+      "safety_level": "L0-L3",
+      "evidence_tier": "E0",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 2,
+        "mvp_fit": 4,
+        "openclaw_fit": 4,
+        "time_to_value": 6
+      },
+      "source_quality": "low",
+      "file": "use-cases/ecommerce/ai-004-returns-agent.md"
+    },
+    {
+      "id": "AD-003",
+      "name": "Issue-to-PR Agent",
+      "category": "coding-agents",
+      "family": "dev work management",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "medium",
+      "file": "use-cases/coding-agents/ad-003-issue-to-pr.md"
     }
   ]
 }
