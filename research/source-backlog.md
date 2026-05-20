@@ -13,10 +13,14 @@ Candidates for future use case cards, playbook expansion, or research.
 
 | Date | Source | Type | Evidence Tier | Family | Decision | Notes |
 |------|--------|------|---------------|--------|----------|-------|
-|        |        |      |               |        |          |       |
+| 2026-05-20 | OpenClaw.rocks: 34 Use Cases | Community report | E4 | multiple | evaluated | Personal CRM, Health Tracker, Meeting Notes extracted. Remaining: YouTube/Reddit digest, Stock tracker, Multi-agent team — future cards |
+| 2026-05-20 | Latenode: Popular OpenClaw Use Cases | Blog post | E4 | multiple | evaluated | Meeting notes pattern confirmed. Inbox zero, daily briefing already covered |
+| 2026-05-20 | n8n blog: 15 AI Agent Examples | Blog post | E3 | business automation | hold | Generic AI agent patterns, not OpenClaw-specific. Useful for future adapted cards |
 
 ## Approved (ready for card creation)
 
 | Date | Source | Type | Evidence Tier | Family | Card File |
 |------|--------|------|---------------|--------|-----------|
-|        |        |      |               |        |           |
+| 2026-05-20 | OpenClaw.rocks: 34 Use Cases | Community report | E4 | relationship management | use-cases/personal-command-center/oc-020-personal-crm.md |
+| 2026-05-20 | OpenClaw.rocks: 34 Use Cases | Community report | E4 | health tracking | use-cases/personal-command-center/oc-021-health-symptom-tracker.md |
+| 2026-05-20 | OpenClaw.rocks + Latenode | Community report | E4 | meeting management | use-cases/business-automation/oc-036-meeting-notes-action-items.md |

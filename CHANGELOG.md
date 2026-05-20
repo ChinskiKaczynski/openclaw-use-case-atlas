@@ -2,7 +2,7 @@
 
 All notable changes to the OpenClaw Use Case Atlas.
 
-Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
@@ -10,6 +10,12 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Research intake structure (`research/` directory)
 - Daily intake template and backlog
 - Rejected sources tracking
+
+### Added (2026-05-20 daily cycle)
+- 3 new use case cards (OC-020, OC-021, OC-036) — 28 total
+- 1 new playbook: Personal CRM
+- Updated source backlog with 3 evaluated sources
+- New families: relationship management, health tracking, meeting management
 
 ## [0.1.0] — 2026-05-20
 

@@ -501,6 +501,66 @@
       },
       "source_quality": "medium",
       "file": "use-cases/coding-agents/ad-003-issue-to-pr.md"
+    },
+    {
+      "id": "OC-020",
+      "name": "Personal CRM",
+      "category": "personal-command-center",
+      "family": "relationship management",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "high",
+      "file": "use-cases/personal-command-center/oc-020-personal-crm.md"
+    },
+    {
+      "id": "OC-021",
+      "name": "Health & Symptom Tracker",
+      "category": "personal-command-center",
+      "family": "health tracking",
+      "status": "adapted",
+      "safety_level": "L0-L1",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 2
+      },
+      "source_quality": "high",
+      "file": "use-cases/personal-command-center/oc-021-health-symptom-tracker.md"
+    },
+    {
+      "id": "OC-036",
+      "name": "Meeting Notes & Action Items",
+      "category": "business-automation",
+      "family": "meeting management",
+      "status": "adapted",
+      "safety_level": "L0-L1",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 2,
+        "risk": 1,
+        "evidence": 4,
+        "mvp_fit": 5,
+        "openclaw_fit": 5,
+        "time_to_value": 1
+      },
+      "source_quality": "high",
+      "file": "use-cases/business-automation/oc-036-meeting-notes-action-items.md"
     }
   ]
 }

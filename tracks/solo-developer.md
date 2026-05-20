@@ -25,7 +25,12 @@ You build software alone or with a tiny team. You wear all hats: dev, DevOps, PM
 **Time to value:** 8 hours
 **Use case:** [Production Bug Fixer](../use-cases/coding-agents/oc-007-production-bug-fixer.md)
 
-### 5. Memory Vault [L0]
+### 5. Meeting Notes & Action Items [L0]
+**Why:** Stop spending 30 minutes after every meeting writing up notes.
+**Time to value:** 1 hour
+**Use case:** [Meeting Notes & Action Items](../use-cases/business-automation/oc-036-meeting-notes-action-items.md)
+
+### 6. Memory Vault [L0]
 **Why:** Stop re-explaining your codebase to the agent every session.
 **Time to value:** 1 hour
 **Use case:** [Memory Vault](../use-cases/rag-documents-memory/oc-011-memory-vault.md)
