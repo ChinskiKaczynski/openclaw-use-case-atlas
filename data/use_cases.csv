@@ -1,0 +1,15 @@
+id,name,category,family,status,safety_level,evidence_tier,value,difficulty,risk,evidence,mvp_fit,openclaw_fit,time_to_value,source_quality,file
+OC-004,Daily Ops Briefing,personal-command-center,multi-channel command center,confirmed,L0,E4,5,2,2,4,5,5,2,high,use-cases/personal-command-center/oc-004-daily-ops-briefing.md
+OC-001,Personal Command Center,personal-command-center,multi-channel command center,confirmed,L0-L2,E4,5,3,3,4,4,5,4,high,use-cases/personal-command-center/oc-001-personal-command-center.md
+OC-010,PR Review Agent,coding-agents,PR review,confirmed,L0,E4,5,2,2,5,5,4,2,high,use-cases/coding-agents/oc-010-pr-review-agent.md
+OC-007,Production Bug Fix Agent,coding-agents,bug fixing,confirmed,L1-L3,E4,5,4,4,4,3,5,8,high,use-cases/coding-agents/oc-007-production-bug-fixer.md
+OC-016,Dev Work Management Agent,coding-agents,dev work management,confirmed,L0-L2,E4,4,3,2,4,4,4,4,high,use-cases/coding-agents/oc-016-dev-work-management.md
+OC-050,NAS Infrastructure Monitor,devops-homelab,infrastructure monitoring,confirmed,L0-L2,E4,5,3,4,3,4,5,4,medium-high,use-cases/devops-homelab/oc-050-nas-infrastructure-monitor.md
+OC-017,Smart Home Control Agent,devops-homelab,smart home,confirmed,L0-L1,E4,4,2,2,5,5,4,2,high,use-cases/devops-homelab/oc-017-smart-home-control.md
+OC-001-email,Email Triage Agent,business-automation,email triage,confirmed,L0-L2,E4,5,3,3,4,4,5,4,high,use-cases/business-automation/oc-001-email-triage.md
+OC-034,Customer Support Triage,business-automation,sales & support,confirmed,L0-L2,E3-E4,4,3,3,3,4,4,6,medium-high,use-cases/business-automation/oc-034-customer-support-triage.md
+OC-054,E-Commerce Operations,ecommerce,store operations,experimental,L0-L3,E3,4,3,4,3,3,4,6,medium,use-cases/ecommerce/oc-054-ecommerce-operations.md
+OC-011,Memory Vault,rag-documents-memory,memory vault,confirmed,L0-L2,E4,5,2,3,4,5,5,2,high,use-cases/rag-documents-memory/oc-011-memory-vault.md
+OC-013,Document Processing Agent,rag-documents-memory,document processing,confirmed,L0,E4,4,2,2,4,5,4,1,high,use-cases/rag-documents-memory/oc-013-document-processing.md
+OC-053,Approval Workflow,security-governance,approvals,confirmed,L0,E4,5,3,2,4,4,5,4,high,use-cases/security-governance/oc-053-approval-workflow.md
+OC-035,Learning Assistant,education,education,confirmed,L0,E4,4,2,1,4,5,4,1,high,use-cases/education/oc-035-learning-assistant.md

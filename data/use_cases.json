@@ -1,0 +1,286 @@
+{
+  "version": "0.1.0",
+  "last_updated": "2026-05-20",
+  "use_cases": [
+    {
+      "id": "OC-004",
+      "name": "Daily Ops Briefing",
+      "category": "personal-command-center",
+      "family": "multi-channel command center",
+      "status": "confirmed",
+      "safety_level": "L0",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 2,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 5,
+        "openclaw_fit": 5,
+        "time_to_value": 2
+      },
+      "source_quality": "high",
+      "file": "use-cases/personal-command-center/oc-004-daily-ops-briefing.md"
+    },
+    {
+      "id": "OC-001",
+      "name": "Personal Command Center",
+      "category": "personal-command-center",
+      "family": "multi-channel command center",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "high",
+      "file": "use-cases/personal-command-center/oc-001-personal-command-center.md"
+    },
+    {
+      "id": "OC-010",
+      "name": "PR Review Agent",
+      "category": "coding-agents",
+      "family": "PR review",
+      "status": "confirmed",
+      "safety_level": "L0",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 2,
+        "risk": 2,
+        "evidence": 5,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 2
+      },
+      "source_quality": "high",
+      "file": "use-cases/coding-agents/oc-010-pr-review-agent.md"
+    },
+    {
+      "id": "OC-007",
+      "name": "Production Bug Fix Agent",
+      "category": "coding-agents",
+      "family": "bug fixing",
+      "status": "confirmed",
+      "safety_level": "L1-L3",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 4,
+        "risk": 4,
+        "evidence": 4,
+        "mvp_fit": 3,
+        "openclaw_fit": 5,
+        "time_to_value": 8
+      },
+      "source_quality": "high",
+      "file": "use-cases/coding-agents/oc-007-production-bug-fixer.md"
+    },
+    {
+      "id": "OC-016",
+      "name": "Dev Work Management Agent",
+      "category": "coding-agents",
+      "family": "dev work management",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 4,
+        "time_to_value": 4
+      },
+      "source_quality": "high",
+      "file": "use-cases/coding-agents/oc-016-dev-work-management.md"
+    },
+    {
+      "id": "OC-050",
+      "name": "NAS Infrastructure Monitor",
+      "category": "devops-homelab",
+      "family": "infrastructure monitoring",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 4,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "medium-high",
+      "file": "use-cases/devops-homelab/oc-050-nas-infrastructure-monitor.md"
+    },
+    {
+      "id": "OC-017",
+      "name": "Smart Home Control Agent",
+      "category": "devops-homelab",
+      "family": "smart home",
+      "status": "confirmed",
+      "safety_level": "L0-L1",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 2,
+        "risk": 2,
+        "evidence": 5,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 2
+      },
+      "source_quality": "high",
+      "file": "use-cases/devops-homelab/oc-017-smart-home-control.md"
+    },
+    {
+      "id": "OC-001-email",
+      "name": "Email Triage Agent",
+      "category": "business-automation",
+      "family": "email triage",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "high",
+      "file": "use-cases/business-automation/oc-001-email-triage.md"
+    },
+    {
+      "id": "OC-034",
+      "name": "Customer Support Triage",
+      "category": "business-automation",
+      "family": "sales & support",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3-E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 4,
+        "time_to_value": 6
+      },
+      "source_quality": "medium-high",
+      "file": "use-cases/business-automation/oc-034-customer-support-triage.md"
+    },
+    {
+      "id": "OC-054",
+      "name": "E-Commerce Operations",
+      "category": "ecommerce",
+      "family": "store operations",
+      "status": "experimental",
+      "safety_level": "L0-L3",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 4,
+        "evidence": 3,
+        "mvp_fit": 3,
+        "openclaw_fit": 4,
+        "time_to_value": 6
+      },
+      "source_quality": "medium",
+      "file": "use-cases/ecommerce/oc-054-ecommerce-operations.md"
+    },
+    {
+      "id": "OC-011",
+      "name": "Memory Vault",
+      "category": "rag-documents-memory",
+      "family": "memory vault",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 2,
+        "risk": 3,
+        "evidence": 4,
+        "mvp_fit": 5,
+        "openclaw_fit": 5,
+        "time_to_value": 2
+      },
+      "source_quality": "high",
+      "file": "use-cases/rag-documents-memory/oc-011-memory-vault.md"
+    },
+    {
+      "id": "OC-013",
+      "name": "Document Processing Agent",
+      "category": "rag-documents-memory",
+      "family": "document processing",
+      "status": "confirmed",
+      "safety_level": "L0",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 2,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 1
+      },
+      "source_quality": "high",
+      "file": "use-cases/rag-documents-memory/oc-013-document-processing.md"
+    },
+    {
+      "id": "OC-053",
+      "name": "Approval Workflow",
+      "category": "security-governance",
+      "family": "approvals",
+      "status": "confirmed",
+      "safety_level": "L0",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "high",
+      "file": "use-cases/security-governance/oc-053-approval-workflow.md"
+    },
+    {
+      "id": "OC-035",
+      "name": "Learning Assistant",
+      "category": "education",
+      "family": "education",
+      "status": "confirmed",
+      "safety_level": "L0",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 2,
+        "risk": 1,
+        "evidence": 4,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 1
+      },
+      "source_quality": "high",
+      "file": "use-cases/education/oc-035-learning-assistant.md"
+    }
+  ]
+}
