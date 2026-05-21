@@ -661,6 +661,106 @@
       },
       "source_quality": "low",
       "file": "use-cases/personal-command-center/ai-005-competition-research-agent.md"
+    },
+    {
+      "id": "AD-004",
+      "name": "Codebase Q&A / Onboarding Agent",
+      "category": "coding-agents",
+      "family": "code understanding",
+      "status": "adapted",
+      "safety_level": "L0",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 1,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "medium",
+      "file": "use-cases/coding-agents/ad-004-codebase-qa.md"
+    },
+    {
+      "id": "AD-005",
+      "name": "Researcher + Writer Crew",
+      "category": "business-automation",
+      "family": "content creation",
+      "status": "adapted",
+      "safety_level": "L0",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 1,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 4,
+        "time_to_value": 6
+      },
+      "source_quality": "medium",
+      "file": "use-cases/business-automation/ad-005-researcher-writer-crew.md"
+    },
+    {
+      "id": "AD-006",
+      "name": "Lead Scoring z HITL",
+      "category": "business-automation",
+      "family": "sales ops",
+      "status": "adapted",
+      "safety_level": "L0-L1",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 3,
+        "openclaw_fit": 4,
+        "time_to_value": 8
+      },
+      "source_quality": "medium",
+      "file": "use-cases/business-automation/ad-006-lead-scoring-hitl.md"
+    },
+    {
+      "id": "AD-007",
+      "name": "Email Auto-Responder Flow",
+      "category": "business-automation",
+      "family": "email automation",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 6
+      },
+      "source_quality": "medium",
+      "file": "use-cases/business-automation/ad-007-email-auto-responder.md"
+    },
+    {
+      "id": "OC-047",
+      "name": "Customer Complaint Triage z danymi p\u0142atno\u015bci",
+      "category": "business-automation",
+      "family": "support ops",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E2",
+      "scores": {
+        "value": 5,
+        "difficulty": 4,
+        "risk": 4,
+        "evidence": 3,
+        "mvp_fit": 3,
+        "openclaw_fit": 4,
+        "time_to_value": 12
+      },
+      "source_quality": "medium",
+      "file": "use-cases/business-automation/oc-047-complaint-triage.md"
     }
   ]
 }

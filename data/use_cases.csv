@@ -32,3 +32,8 @@ OC-048,Influencer Outreach Agent,business-automation,sales & support,confirmed,L
 AD-009,MCP Workspace Agent,coding-agents,MCP integration,adapted,L0-L2,E3,5,3,3,3,5,5,4,medium,use-cases/coding-agents/ad-009-mcp-workspace-agent.md
 AD-017,Newsletter & Content Pipeline,business-automation,content pipeline,adapted,L0-L2,E3,4,3,2,3,5,4,6,medium,use-cases/business-automation/ad-017-newsletter-content-pipeline.md
 AI-005,Competition Research Agent,personal-command-center,research,ai_idea,L0,E0,4,2,1,1,5,4,2,low,use-cases/personal-command-center/ai-005-competition-research-agent.md
+AD-004,Codebase Q&A / Onboarding Agent,coding-agents,code understanding,adapted,L0,E3,4,3,1,3,4,5,4,medium,use-cases/coding-agents/ad-004-codebase-qa.md
+AD-005,Researcher + Writer Crew,business-automation,content creation,adapted,L0,E3,4,3,1,3,4,4,6,medium,use-cases/business-automation/ad-005-researcher-writer-crew.md
+AD-006,Lead Scoring z HITL,business-automation,sales ops,adapted,L0-L1,E3,4,3,2,3,3,4,8,medium,use-cases/business-automation/ad-006-lead-scoring-hitl.md
+AD-007,Email Auto-Responder Flow,business-automation,email automation,adapted,L0-L2,E3,4,3,2,3,4,5,6,medium,use-cases/business-automation/ad-007-email-auto-responder.md
+OC-047,Customer Complaint Triage z danymi płatności,business-automation,support ops,confirmed,L0-L2,E2,5,4,4,3,3,4,12,medium,use-cases/business-automation/oc-047-complaint-triage.md
