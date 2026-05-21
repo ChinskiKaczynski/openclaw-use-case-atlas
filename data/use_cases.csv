@@ -27,3 +27,8 @@ AD-003,Issue-to-PR Agent,coding-agents,dev work management,adapted,L0-L2,E3,5,3,
 OC-020,Personal CRM,personal-command-center,relationship management,adapted,L0-L2,E4,4,3,2,4,4,5,4,high,use-cases/personal-command-center/oc-020-personal-crm.md
 OC-021,Health & Symptom Tracker,personal-command-center,health tracking,adapted,L0-L1,E4,4,3,2,4,4,5,2,high,use-cases/personal-command-center/oc-021-health-symptom-tracker.md
 OC-036,Meeting Notes & Action Items,business-automation,meeting management,adapted,L0-L1,E4,5,2,1,4,5,5,1,high,use-cases/business-automation/oc-036-meeting-notes-action-items.md
+OC-008,Website & App Build Agent,coding-agents,product building,confirmed,L0-L2,E4,5,4,3,4,4,5,8,high,use-cases/coding-agents/oc-008-website-app-build-agent.md
+OC-048,Influencer Outreach Agent,business-automation,sales & support,confirmed,L0-L2,E3-E4,4,3,3,3,4,4,6,medium-high,use-cases/business-automation/oc-048-influencer-outreach-agent.md
+AD-009,MCP Workspace Agent,coding-agents,MCP integration,adapted,L0-L2,E3,5,3,3,3,5,5,4,medium,use-cases/coding-agents/ad-009-mcp-workspace-agent.md
+AD-017,Newsletter & Content Pipeline,business-automation,content pipeline,adapted,L0-L2,E3,4,3,2,3,5,4,6,medium,use-cases/business-automation/ad-017-newsletter-content-pipeline.md
+AI-005,Competition Research Agent,personal-command-center,research,ai_idea,L0,E0,4,2,1,1,5,4,2,low,use-cases/personal-command-center/ai-005-competition-research-agent.md

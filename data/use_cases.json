@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "last_updated": "2026-05-20",
+  "last_updated": "2026-05-21",
   "use_cases": [
     {
       "id": "OC-004",
@@ -561,6 +561,106 @@
       },
       "source_quality": "high",
       "file": "use-cases/business-automation/oc-036-meeting-notes-action-items.md"
+    },
+    {
+      "id": "OC-008",
+      "name": "Website & App Build Agent",
+      "category": "coding-agents",
+      "family": "product building",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 4,
+        "risk": 3,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 8
+      },
+      "source_quality": "high",
+      "file": "use-cases/coding-agents/oc-008-website-app-build-agent.md"
+    },
+    {
+      "id": "OC-048",
+      "name": "Influencer Outreach Agent",
+      "category": "business-automation",
+      "family": "sales & support",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3-E4",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 4,
+        "time_to_value": 6
+      },
+      "source_quality": "medium-high",
+      "file": "use-cases/business-automation/oc-048-influencer-outreach-agent.md"
+    },
+    {
+      "id": "AD-009",
+      "name": "MCP Workspace Agent",
+      "category": "coding-agents",
+      "family": "MCP integration",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 3,
+        "evidence": 3,
+        "mvp_fit": 5,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "medium",
+      "file": "use-cases/coding-agents/ad-009-mcp-workspace-agent.md"
+    },
+    {
+      "id": "AD-017",
+      "name": "Newsletter & Content Pipeline",
+      "category": "business-automation",
+      "family": "content pipeline",
+      "status": "adapted",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 6
+      },
+      "source_quality": "medium",
+      "file": "use-cases/business-automation/ad-017-newsletter-content-pipeline.md"
+    },
+    {
+      "id": "AI-005",
+      "name": "Competition Research Agent",
+      "category": "personal-command-center",
+      "family": "research",
+      "status": "ai_idea",
+      "safety_level": "L0",
+      "evidence_tier": "E0",
+      "scores": {
+        "value": 4,
+        "difficulty": 2,
+        "risk": 1,
+        "evidence": 1,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 2
+      },
+      "source_quality": "low",
+      "file": "use-cases/personal-command-center/ai-005-competition-research-agent.md"
     }
   ]
 }
