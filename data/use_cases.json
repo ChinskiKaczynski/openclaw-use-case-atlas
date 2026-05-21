@@ -744,7 +744,7 @@
     },
     {
       "id": "OC-047",
-      "name": "Customer Complaint Triage z danymi p\u0142atno\u015bci",
+      "name": "Customer Complaint Triage z danymi płatności",
       "category": "business-automation",
       "family": "support ops",
       "status": "confirmed",
@@ -761,6 +761,106 @@
       },
       "source_quality": "medium",
       "file": "use-cases/business-automation/oc-047-complaint-triage.md"
+    },
+    {
+      "id": "OC-057",
+      "name": "Agent Skill Security Audit",
+      "category": "security-governance",
+      "family": "skill vetting",
+      "status": "confirmed",
+      "safety_level": "L0",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 2
+      },
+      "source_quality": "high",
+      "file": "use-cases/security-governance/oc-057-agent-skill-security-audit.md"
+    },
+    {
+      "id": "OC-058",
+      "name": "Document Q&A / RAG Knowledge Base",
+      "category": "rag-documents-memory",
+      "family": "document Q&A",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E4",
+      "scores": {
+        "value": 5,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 4,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 4
+      },
+      "source_quality": "high",
+      "file": "use-cases/rag-documents-memory/oc-058-document-qa-knowledge-base.md"
+    },
+    {
+      "id": "OC-059",
+      "name": "Social Media Automation",
+      "category": "business-automation",
+      "family": "social media",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 2,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 5,
+        "openclaw_fit": 4,
+        "time_to_value": 2
+      },
+      "source_quality": "medium-high",
+      "file": "use-cases/business-automation/oc-059-social-media-automation.md"
+    },
+    {
+      "id": "OC-060",
+      "name": "Calendar & Scheduling Agent",
+      "category": "personal-command-center",
+      "family": "scheduling",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 5,
+        "time_to_value": 2
+      },
+      "source_quality": "medium-high",
+      "file": "use-cases/personal-command-center/oc-060-calendar-scheduling-agent.md"
+    },
+    {
+      "id": "OC-061",
+      "name": "Personal Finance & Budget Agent",
+      "category": "personal-command-center",
+      "family": "personal finance",
+      "status": "confirmed",
+      "safety_level": "L0-L2",
+      "evidence_tier": "E3",
+      "scores": {
+        "value": 4,
+        "difficulty": 3,
+        "risk": 2,
+        "evidence": 3,
+        "mvp_fit": 4,
+        "openclaw_fit": 4,
+        "time_to_value": 2
+      },
+      "source_quality": "medium-high",
+      "file": "use-cases/personal-command-center/oc-061-personal-finance-budget-agent.md"
     }
   ]
 }

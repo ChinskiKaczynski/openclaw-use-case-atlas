@@ -17,6 +17,29 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Updated source backlog with 3 evaluated sources
 - New families: relationship management, health tracking, meeting management
 
+### Added (2026-05-21 15:14 cycle)
+- 5 new use case cards (OC-008, OC-048, AD-009, AD-017, AI-005) — 33 total
+- New families: product building, MCP integration, content pipeline, sales & support, research
+- Updated source backlog with 5 evaluated sources (Snyk, Fluence, LightNode, Contabo, Panto AI)
+- 4 rejected sources documented
+
+### Added (2026-05-21 20:00 cycle)
+- 5 new use case cards (OC-057, OC-058, OC-059, OC-060, OC-061) — 38 total
+- New families: skill vetting, document Q&A, social media, scheduling, personal finance
+- Sources: Snyk ToxicSkills, Semgrep security cheat sheet, TLDL community survey, OpenClaw-pro/openclaw-skills-security
+- New source evaluations: Semgrep (approved), TLDL (awesome-openclaw-usecases GitHub repo — candidate)
+- Platform signals: OpenClaw v1.4 vector memory, multimodal GA, ClawHub security ecosystem
+
+### Validation Results (2026-05-21 20:00 cycle)
+- ✓ JSON valid: 38 entries
+- ✓ No duplicate IDs
+- ✓ No duplicate files
+- ✓ All cards have required fields (evidence tier, safety level, family, source type, MVP path, risks)
+- ✓ JSON/CSV consistent (same IDs)
+- ✓ All 38 card files exist
+- ✓ All internal links valid
+- ALL CHECKS PASSED
+
 ## [0.1.0] — 2026-05-20
 
 ### Added

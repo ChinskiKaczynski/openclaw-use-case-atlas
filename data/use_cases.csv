@@ -37,3 +37,8 @@ AD-005,Researcher + Writer Crew,business-automation,content creation,adapted,L0,
 AD-006,Lead Scoring z HITL,business-automation,sales ops,adapted,L0-L1,E3,4,3,2,3,3,4,8,medium,use-cases/business-automation/ad-006-lead-scoring-hitl.md
 AD-007,Email Auto-Responder Flow,business-automation,email automation,adapted,L0-L2,E3,4,3,2,3,4,5,6,medium,use-cases/business-automation/ad-007-email-auto-responder.md
 OC-047,Customer Complaint Triage z danymi płatności,business-automation,support ops,confirmed,L0-L2,E2,5,4,4,3,3,4,12,medium,use-cases/business-automation/oc-047-complaint-triage.md
+OC-057,Agent Skill Security Audit,security-governance,skill vetting,confirmed,L0,E4,5,3,2,4,4,5,2,high,use-cases/security-governance/oc-057-agent-skill-security-audit.md
+OC-058,Document Q&A / RAG Knowledge Base,rag-documents-memory,document Q&A,confirmed,L0-L2,E4,5,3,2,4,4,5,4,high,use-cases/rag-documents-memory/oc-058-document-qa-knowledge-base.md
+OC-059,Social Media Automation,business-automation,social media,confirmed,L0-L2,E3,4,2,2,3,5,4,2,medium-high,use-cases/business-automation/oc-059-social-media-automation.md
+OC-060,Calendar & Scheduling Agent,personal-command-center,scheduling,confirmed,L0-L2,E3,4,3,2,3,4,5,2,medium-high,use-cases/personal-command-center/oc-060-calendar-scheduling-agent.md
+OC-061,Personal Finance & Budget Agent,personal-command-center,personal finance,confirmed,L0-L2,E3,4,3,2,3,4,4,2,medium-high,use-cases/personal-command-center/oc-061-personal-finance-budget-agent.md
