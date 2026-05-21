@@ -30,14 +30,24 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - New source evaluations: Semgrep (approved), TLDL (awesome-openclaw-usecases GitHub repo — candidate)
 - Platform signals: OpenClaw v1.4 vector memory, multimodal GA, ClawHub security ecosystem
 
-### Validation Results (2026-05-21 20:00 cycle)
-- ✓ JSON valid: 38 entries
-- ✓ No duplicate IDs
-- ✓ No duplicate files
-- ✓ All cards have required fields (evidence tier, safety level, family, source type, MVP path, risks)
-- ✓ JSON/CSV consistent (same IDs)
-- ✓ All 38 card files exist
-- ✓ All internal links valid
+### Added (2026-05-21 20:00 QA cycle — second pass)
+- No new content changes (branch already up to date)
+- Full QA re-run on 43 use cases
+
+### Validation Results (2026-05-21 20:00 QA full re-run)
+- ✓ JSON valid: 43 entries
+- ✓ CSV valid: 43 rows, consistent with JSON
+- ✓ No duplicate IDs across JSON/CSV
+- ✓ All 43 card files exist
+- ✓ All cards have required fields:
+  - evidence_tier ✓
+  - safety_level ✓
+  - family ✓
+  - source_quality (source_type) ✓
+  - mvp_path (MVP section in markdown) ✓
+  - risks ✓
+- ✓ All 37 internal links valid across 60 files
+- ✓ No broken links in README, tracks, playbooks, use cases
 - ALL CHECKS PASSED
 
 ## [0.1.0] — 2026-05-20
