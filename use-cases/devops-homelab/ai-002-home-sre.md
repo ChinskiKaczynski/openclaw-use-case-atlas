@@ -3,7 +3,7 @@
 ## Status
 AI Idea
 
-## One-liter
+## One-liner
 Domowy SRE: monitoring, alerting, runbook automation — read-only first, approval-based actions.
 
 ## Best for

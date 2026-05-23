@@ -3,7 +3,7 @@
 ## Status
 AI Idea
 
-## One-liter
+## One-liner
 Agent finansowo-operacyjny dla mikrofirmy: cashflow, faktury, wydatki — read-only analytics z draft suggestions.
 
 ## Best for

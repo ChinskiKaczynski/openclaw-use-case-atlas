@@ -1,44 +1,46 @@
 id,name,category,family,status,safety_level,evidence_tier,value,difficulty,risk,evidence,mvp_fit,openclaw_fit,time_to_value,source_quality,file
-OC-004,Daily Ops Briefing,personal-command-center,multi-channel command center,confirmed,L0,E4,5,2,2,4,5,5,2,high,use-cases/personal-command-center/oc-004-daily-ops-briefing.md
-OC-001,Personal Command Center,personal-command-center,multi-channel command center,confirmed,L0-L2,E4,5,3,3,4,4,5,4,high,use-cases/personal-command-center/oc-001-personal-command-center.md
-OC-010,PR Review Agent,coding-agents,PR review,confirmed,L0,E4,5,2,2,5,5,4,2,high,use-cases/coding-agents/oc-010-pr-review-agent.md
-OC-007,Production Bug Fix Agent,coding-agents,bug fixing,confirmed,L1-L3,E4,5,4,4,4,3,5,8,high,use-cases/coding-agents/oc-007-production-bug-fixer.md
-OC-016,Dev Work Management Agent,coding-agents,dev work management,confirmed,L0-L2,E4,4,3,2,4,4,4,4,high,use-cases/coding-agents/oc-016-dev-work-management.md
-OC-050,NAS Infrastructure Monitor,devops-homelab,infrastructure monitoring,confirmed,L0-L2,E4,5,3,4,3,4,5,4,medium-high,use-cases/devops-homelab/oc-050-nas-infrastructure-monitor.md
-OC-017,Smart Home Control Agent,devops-homelab,smart home,confirmed,L0-L1,E4,4,2,2,5,5,4,2,high,use-cases/devops-homelab/oc-017-smart-home-control.md
-OC-001-email,Email Triage Agent,business-automation,email triage,confirmed,L0-L2,E4,5,3,3,4,4,5,4,high,use-cases/business-automation/oc-001-email-triage.md
-OC-034,Customer Support Triage,business-automation,sales & support,confirmed,L0-L2,E3-E4,4,3,3,3,4,4,6,medium-high,use-cases/business-automation/oc-034-customer-support-triage.md
-OC-054,E-Commerce Operations,ecommerce,store operations,experimental,L0-L3,E3,4,3,4,3,3,4,6,medium,use-cases/ecommerce/oc-054-ecommerce-operations.md
-OC-011,Memory Vault,rag-documents-memory,memory vault,confirmed,L0-L2,E4,5,2,3,4,5,5,2,high,use-cases/rag-documents-memory/oc-011-memory-vault.md
-OC-013,Document Processing Agent,rag-documents-memory,document processing,confirmed,L0,E4,4,2,2,4,5,4,1,high,use-cases/rag-documents-memory/oc-013-document-processing.md
-OC-053,Approval Workflow,security-governance,approvals,confirmed,L0,E4,5,3,2,4,4,5,4,high,use-cases/security-governance/oc-053-approval-workflow.md
-OC-035,Learning Assistant,education,education,confirmed,L0,E4,4,2,1,4,5,4,1,high,use-cases/education/oc-035-learning-assistant.md
-OC-056,API Key Hardening,security-governance,hardening,confirmed,L0,E4,5,2,2,4,5,5,2,high,use-cases/security-governance/oc-056-api-key-hardening.md
-OC-051,Agent Monitoring & Observability,security-governance,agent monitoring,confirmed,L0,E4,4,3,2,3,4,4,4,medium-high,use-cases/security-governance/oc-051-agent-monitoring.md
-AI-003,E-Commerce Margin Guardian,ecommerce,store operations,ai_idea,L0-L2,E0,4,3,3,2,3,3,6,low,use-cases/ecommerce/ai-003-margin-guardian.md
-AI-001,Subscription Negotiator,personal-command-center,logistics & shopping,ai_idea,L0-L2,E0,4,2,2,2,5,3,2,low,use-cases/personal-command-center/ai-001-subscription-negotiator.md
-AI-010,Mini-CFO,business-automation,financial operations,ai_idea,L0-L2,E0,5,4,4,2,3,4,8,low,use-cases/business-automation/ai-010-mini-cfo.md
-AI-002,Home SRE,devops-homelab,infrastructure monitoring,ai_idea,L0-L2,E0,5,3,3,2,4,5,4,low,use-cases/devops-homelab/ai-002-home-sre.md
 AD-001,Multi-Agent PR Review,coding-agents,PR review,adapted,L0-L2,E3,5,4,2,3,3,5,8,medium,use-cases/coding-agents/ad-001-multi-agent-pr-review.md
 AD-002,CI Auto-Fix Agent,coding-agents,bug fixing,adapted,L0-L2,E3,5,4,3,3,3,5,8,medium,use-cases/coding-agents/ad-002-ci-auto-fix.md
-AD-025,Tool-Level HITL,security-governance,approvals,adapted,L0,E3,5,3,2,3,4,5,4,medium,use-cases/security-governance/ad-025-tool-level-hitl.md
-AI-004,Returns & Complaints Agent,ecommerce,store operations,ai_idea,L0-L3,E0,4,3,3,2,4,4,6,low,use-cases/ecommerce/ai-004-returns-agent.md
 AD-003,Issue-to-PR Agent,coding-agents,dev work management,adapted,L0-L2,E3,5,3,2,3,4,5,4,medium,use-cases/coding-agents/ad-003-issue-to-pr.md
-OC-020,Personal CRM,personal-command-center,relationship management,adapted,L0-L2,E4,4,3,2,4,4,5,4,high,use-cases/personal-command-center/oc-020-personal-crm.md
-OC-021,Health & Symptom Tracker,personal-command-center,health tracking,adapted,L0-L1,E4,4,3,2,4,4,5,2,high,use-cases/personal-command-center/oc-021-health-symptom-tracker.md
-OC-036,Meeting Notes & Action Items,business-automation,meeting management,adapted,L0-L1,E4,5,2,1,4,5,5,1,high,use-cases/business-automation/oc-036-meeting-notes-action-items.md
-OC-008,Website & App Build Agent,coding-agents,product building,confirmed,L0-L2,E4,5,4,3,4,4,5,8,high,use-cases/coding-agents/oc-008-website-app-build-agent.md
-OC-048,Influencer Outreach Agent,business-automation,sales & support,confirmed,L0-L2,E3-E4,4,3,3,3,4,4,6,medium-high,use-cases/business-automation/oc-048-influencer-outreach-agent.md
-AD-009,MCP Workspace Agent,coding-agents,MCP integration,adapted,L0-L2,E3,5,3,3,3,5,5,4,medium,use-cases/coding-agents/ad-009-mcp-workspace-agent.md
-AD-017,Newsletter & Content Pipeline,business-automation,content pipeline,adapted,L0-L2,E3,4,3,2,3,5,4,6,medium,use-cases/business-automation/ad-017-newsletter-content-pipeline.md
-AI-005,Competition Research Agent,personal-command-center,research,ai_idea,L0,E0,4,2,1,1,5,4,2,low,use-cases/personal-command-center/ai-005-competition-research-agent.md
 AD-004,Codebase Q&A / Onboarding Agent,coding-agents,code understanding,adapted,L0,E3,4,3,1,3,4,5,4,medium,use-cases/coding-agents/ad-004-codebase-qa.md
 AD-005,Researcher + Writer Crew,business-automation,content creation,adapted,L0,E3,4,3,1,3,4,4,6,medium,use-cases/business-automation/ad-005-researcher-writer-crew.md
 AD-006,Lead Scoring z HITL,business-automation,sales ops,adapted,L0-L1,E3,4,3,2,3,3,4,8,medium,use-cases/business-automation/ad-006-lead-scoring-hitl.md
 AD-007,Email Auto-Responder Flow,business-automation,email automation,adapted,L0-L2,E3,4,3,2,3,4,5,6,medium,use-cases/business-automation/ad-007-email-auto-responder.md
+AD-009,MCP Workspace Agent,coding-agents,MCP integration,adapted,L0-L2,E3,5,3,3,3,5,5,4,medium,use-cases/coding-agents/ad-009-mcp-workspace-agent.md
+AD-017,Newsletter & Content Pipeline,business-automation,content pipeline,adapted,L0-L2,E3,4,3,2,3,5,4,6,medium,use-cases/business-automation/ad-017-newsletter-content-pipeline.md
+AD-025,Tool-Level HITL,security-governance,approvals,adapted,L0,E3,5,3,2,3,4,5,4,medium,use-cases/security-governance/ad-025-tool-level-hitl.md
+AI-001,Subscription Negotiator,personal-command-center,logistics & shopping,ai_idea,L0-L2,E0,4,2,2,2,5,3,2,low,use-cases/personal-command-center/ai-001-subscription-negotiator.md
+AI-002,Home SRE,devops-homelab,infrastructure monitoring,ai_idea,L0-L2,E0,5,3,3,2,4,5,4,low,use-cases/devops-homelab/ai-002-home-sre.md
+AI-003,E-Commerce Margin Guardian,ecommerce,store operations,ai_idea,L0-L2,E0,4,3,3,2,3,3,6,low,use-cases/ecommerce/ai-003-margin-guardian.md
+AI-004,Returns & Complaints Agent,ecommerce,store operations,ai_idea,L0-L3,E0,4,3,3,2,4,4,6,low,use-cases/ecommerce/ai-004-returns-agent.md
+AI-005,Competition Research Agent,personal-command-center,research,ai_idea,L0,E0,4,2,1,1,5,4,2,low,use-cases/personal-command-center/ai-005-competition-research-agent.md
+AI-010,Mini-CFO,business-automation,financial operations,ai_idea,L0-L2,E0,5,4,4,2,3,4,8,low,use-cases/business-automation/ai-010-mini-cfo.md
+OC-001,Personal Command Center,personal-command-center,multi-channel command center,confirmed,L0-L2,E4,5,3,3,4,4,5,4,high,use-cases/personal-command-center/oc-001-personal-command-center.md
+OC-004,Daily Ops Briefing,personal-command-center,multi-channel command center,confirmed,L0,E4,5,2,2,4,5,5,2,high,use-cases/personal-command-center/oc-004-daily-ops-briefing.md
+OC-007,Production Bug Fix Agent,coding-agents,bug fixing,confirmed,L1-L3,E4,5,4,4,4,3,5,8,high,use-cases/coding-agents/oc-007-production-bug-fixer.md
+OC-008,Website & App Build Agent,coding-agents,product building,confirmed,L0-L2,E4,5,4,3,4,4,5,8,high,use-cases/coding-agents/oc-008-website-app-build-agent.md
+OC-010,PR Review Agent,coding-agents,PR review,confirmed,L0,E4,5,2,2,5,5,4,2,high,use-cases/coding-agents/oc-010-pr-review-agent.md
+OC-011,Memory Vault,rag-documents-memory,memory vault,confirmed,L0-L2,E4,5,2,3,4,5,5,2,high,use-cases/rag-documents-memory/oc-011-memory-vault.md
+OC-013,Document Processing Agent,rag-documents-memory,document processing,confirmed,L0,E4,4,2,2,4,5,4,1,high,use-cases/rag-documents-memory/oc-013-document-processing.md
+OC-016,Dev Work Management Agent,coding-agents,dev work management,confirmed,L0-L2,E4,4,3,2,4,4,4,4,high,use-cases/coding-agents/oc-016-dev-work-management.md
+OC-017,Smart Home Control Agent,devops-homelab,smart home,confirmed,L0-L1,E4,4,2,2,5,5,4,2,high,use-cases/devops-homelab/oc-017-smart-home-control.md
+OC-020,Personal CRM,personal-command-center,relationship management,adapted,L0-L2,E4,4,3,2,4,4,5,4,high,use-cases/personal-command-center/oc-020-personal-crm.md
+OC-021,Health & Symptom Tracker,personal-command-center,health tracking,adapted,L0-L1,E4,4,3,2,4,4,5,2,high,use-cases/personal-command-center/oc-021-health-symptom-tracker.md
+OC-034,Customer Support Triage,business-automation,sales & support,confirmed,L0-L2,E3-E4,4,3,3,3,4,4,6,medium-high,use-cases/business-automation/oc-034-customer-support-triage.md
+OC-035,Learning Assistant,education,education,confirmed,L0,E4,4,2,1,4,5,4,1,high,use-cases/education/oc-035-learning-assistant.md
+OC-036,Meeting Notes & Action Items,business-automation,meeting management,adapted,L0-L1,E4,5,2,1,4,5,5,1,high,use-cases/business-automation/oc-036-meeting-notes-action-items.md
 OC-047,Customer Complaint Triage z danymi płatności,business-automation,support ops,confirmed,L0-L2,E2,5,4,4,3,3,4,12,medium,use-cases/business-automation/oc-047-complaint-triage.md
+OC-048,Influencer Outreach Agent,business-automation,sales & support,confirmed,L0-L2,E3-E4,4,3,3,3,4,4,6,medium-high,use-cases/business-automation/oc-048-influencer-outreach-agent.md
+OC-050,NAS Infrastructure Monitor,devops-homelab,infrastructure monitoring,confirmed,L0-L2,E4,5,3,4,3,4,5,4,medium-high,use-cases/devops-homelab/oc-050-nas-infrastructure-monitor.md
+OC-051,Agent Monitoring & Observability,security-governance,agent monitoring,confirmed,L0,E4,4,3,2,3,4,4,4,medium-high,use-cases/security-governance/oc-051-agent-monitoring.md
+OC-053,Approval Workflow,security-governance,approvals,confirmed,L0,E4,5,3,2,4,4,5,4,high,use-cases/security-governance/oc-053-approval-workflow.md
+OC-054,E-Commerce Operations,ecommerce,store operations,experimental,L0-L3,E3,4,3,4,3,3,4,6,medium,use-cases/ecommerce/oc-054-ecommerce-operations.md
+OC-056,API Key Hardening,security-governance,hardening,confirmed,L0,E4,5,2,2,4,5,5,2,high,use-cases/security-governance/oc-056-api-key-hardening.md
 OC-057,Agent Skill Security Audit,security-governance,skill vetting,confirmed,L0,E4,5,3,2,4,4,5,2,high,use-cases/security-governance/oc-057-agent-skill-security-audit.md
 OC-058,Document Q&A / RAG Knowledge Base,rag-documents-memory,document Q&A,confirmed,L0-L2,E4,5,3,2,4,4,5,4,high,use-cases/rag-documents-memory/oc-058-document-qa-knowledge-base.md
 OC-059,Social Media Automation,business-automation,social media,confirmed,L0-L2,E3,4,2,2,3,5,4,2,medium-high,use-cases/business-automation/oc-059-social-media-automation.md
 OC-060,Calendar & Scheduling Agent,personal-command-center,scheduling,confirmed,L0-L2,E3,4,3,2,3,4,5,2,medium-high,use-cases/personal-command-center/oc-060-calendar-scheduling-agent.md
 OC-061,Personal Finance & Budget Agent,personal-command-center,personal finance,confirmed,L0-L2,E3,4,3,2,3,4,4,2,medium-high,use-cases/personal-command-center/oc-061-personal-finance-budget-agent.md
+OC-062,Agent Permission Audit & Remediation,security-governance,hardening,confirmed,L0-L1,E4,4,3,2,4,4,4,3,high,use-cases/security-governance/oc-062-agent-permission-audit.md
+OC-063,Pre-configured Multi-Agent Team Deployment,coding-agents,multi-agent team,confirmed,L0,E4,4,2,1,4,5,5,2,high,use-cases/coding-agents/oc-063-multi-agent-team-deploy.md
+OC-001-email,Email Triage Agent,business-automation,email triage,confirmed,L0-L2,E4,5,3,3,4,4,5,4,high,use-cases/business-automation/oc-001-email-triage.md

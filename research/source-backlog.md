@@ -24,6 +24,15 @@ Candidates for future use case cards, playbook expansion, or research.
 | 2026-05-21 | Snyk ToxicSkills Study + UseAI-pro/openclaw-skills-security | Security research + GitHub repo | E4 | security-governance | evaluated | New pattern: Agent Skill Security Audit — vetting ClawHub skills before install. Snyk found 534 skills with critical issues, 1467 malicious payloads. UseAI-pro provides detection skills. |
 | 2026-05-21 | OpenClaw v2026.5.20-beta.1 | Official GitHub release | E5 | platform-updates | evaluated | Discord voice follow, Policy plugin, xAI OAuth, OpenRouter routing, localModelLean. Not a use case but signals new integration patterns. |
 
+## Candidates
+
+| Date | Source | Type | Evidence Tier | Family | Decision | Notes |
+|------|--------|------|---------------|--------|----------|-------|
+| 2026-05-22 | Huntress: OpenClaw AI Agent Permissions Risk | Security research blog | E4 | security-governance | evaluated | New pattern: Agent Permission Audit & Remediation — scan cloud apps for over-permissioned agent instances. Distinct from skill audit (oc-057). |
+| 2026-05-22 | shenhao-stu/openclaw-agents | GitHub repository | E4 | coding-agents | evaluated | New pattern: Pre-configured Multi-Agent Team Deployment — 9 agents, group routing, 4 workflow templates. Deployment pattern, not a specific workflow. |
+| 2026-05-22 | Gen-Verse/OpenClaw-RL | GitHub repo + arxiv | E3 | personal-command-center | hold | Research project: RL training from conversation feedback. Not production-ready yet. Revisit when matures. |
+| 2026-05-22 | AgentMail: 7 Email Automation Use Cases | Vendor blog | E3 | business-automation | hold | Agent-native email infrastructure patterns. Partially overlaps with existing cards. Keep as reference. |
+
 ## Approved (ready for card creation)
 
 | Date | Source | Type | Evidence Tier | Family | Card File |

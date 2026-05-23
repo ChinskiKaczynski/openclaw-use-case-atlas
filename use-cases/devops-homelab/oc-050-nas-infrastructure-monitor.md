@@ -3,7 +3,7 @@
 ## Status
 Confirmed
 
-## One-layer
+## One-liner
 Lokalny agent monitoringu infrastruktury: NAS, Docker, media stack — health dashboard i alerty.
 
 ## Best for
